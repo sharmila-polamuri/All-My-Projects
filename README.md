@@ -31,6 +31,9 @@ Whatever Projects i worked on using different ML/CV/NLP algorithms all are avail
 |2. [Text Preprocessing Techniques](https://github.com/sharmila-polamuri/text_preprocessing_techniques) | 
 |3. [Language Translator](https://github.com/sharmila-polamuri/language-translator) | Encoder-Decoder-Attention | 
 |4. [Multilabel Toxic Commit Classification](https://github.com/sharmila-polamuri/Multilabel_toxic_commit_classification) | Convolution Neural Networks (CNN) | 
+|5. [IMDB Sentiment Classification](https://github.com/sharmila-polamuri/IMDB-Review-Classifier) | Basic Sequence Model |
+|6. [Abstractive Review Summary](https://github.com/sharmila-polamuri/abstractive-review-summarizer) | Encoder-Decoder Attention Model |
+|7. [POS Tagging](https://github.com/sharmila-polamuri/POS_tagger) | 
 
 <br>
 <h2 align="left">Computer Vision | CV Projects</h2>
